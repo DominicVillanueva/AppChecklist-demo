@@ -1,0 +1,212 @@
+{
+  "questions": [
+    {
+      "idQuestion": 1,
+      "nameQuestion": "¿Que es la computación?",
+      "answers": [
+        {
+          "idAnswer": 1,
+          "nameAnswer": "Es el estudio de los fundamentos teóricos de la información que procesan las computadoras, y las distintas implementaciones en forma de sistemas comp."
+        },
+        {
+          "idAnswer": 2,
+          "nameAnswer": "Es un vocablo inspirado en el francés “informatique” que se encarga de procesar la Información."
+        },
+        {
+          "idAnswer": 3,
+          "nameAnswer": "Es aquella que tiene relación con el tratamiento de la Información y sus usos; es más cercana a las Personas y Computadoras"
+        },
+        {
+          "idAnswer": 4,
+          "nameAnswer": "Es el estudio de las Computadoras creadas por Bill Gates en los 80's"
+        }
+      ]
+    },
+    {
+      "idQuestion": 2,
+      "nameQuestion": "¿Que son los sistemas computacionales?",
+      "answers": [
+        {
+          "idAnswer": 5,
+          "nameAnswer": "Es un conjunto de elementos orientados al tratamiento y administración de datos e información, organizados y listos para su uso posterior"
+        },
+        {
+          "idAnswer": 6,
+          "nameAnswer": "Proviene del Ingles \"Informatique\" y es la teoría básica de la Informática."
+        },
+        {
+          "idAnswer": 7,
+          "nameAnswer": "Es la Teoría Básica de la Computacion"
+        },
+        {
+          "idAnswer": 8,
+          "nameAnswer": "Denota conteo y se refiere a la sección Harware de la computadora."
+        }
+      ]
+    },
+    {
+      "idQuestion": 3,
+      "nameQuestion": "La unidad de medida que más se utiliza en la actualidad es el Megabyte.",
+      "answers": [
+        {
+          "idAnswer": 9,
+          "nameAnswer": "Verdadero"
+        },
+        {
+          "idAnswer": 10,
+          "nameAnswer": "Falso"
+        }
+      ]
+    },
+    {
+      "idQuestion": 4,
+      "nameQuestion": "¿Que es un algoritmo?",
+      "answers": [
+        {
+          "idAnswer": 11,
+          "nameAnswer": "Es el seguimiento del DFD para la solucion a un problema."
+        },
+        {
+          "idAnswer": 12,
+          "nameAnswer": "Es una serie de pasos para dar solución a un problema."
+        },
+        {
+          "idAnswer": 13,
+          "nameAnswer": "Es el orden de los pasos para un sistema de informacion."
+        },
+        {
+          "idAnswer": 14,
+          "nameAnswer": "Es el estudio de las ordenes creadas por un programador."
+        }
+      ]
+    },
+    {
+      "idQuestion": 5,
+      "nameQuestion": "Que significa JDK",
+      "answers": [
+        {
+          "idAnswer": 15,
+          "nameAnswer": "Java Development Kit"
+        },
+        {
+          "idAnswer": 16,
+          "nameAnswer": "Java Distance kilobye"
+        },
+        {
+          "idAnswer": 17,
+          "nameAnswer": "Distrit Java Kit"
+        },
+        {
+          "idAnswer": 18,
+          "nameAnswer": "Kilobyte Java Development"
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "nameUser": "Name",
+      "result": [
+        {
+          "idQuestion": 1,
+          "idAnswer": 1
+        },
+        {
+          "idQuestion": 2,
+          "idAnswer": 7
+        },
+        {
+          "idQuestion": 3,
+          "idAnswer": 10
+        },
+        {
+          "idQuestion": 4,
+          "idAnswer": 14
+        },
+        {
+          "idQuestion": 5,
+          "idAnswer": 17
+        }
+      ],
+      "id": 1
+    },
+    {
+      "nameUser": "Otro",
+      "result": [
+        {
+          "idQuestion": 1,
+          "idAnswer": 2
+        },
+        {
+          "idQuestion": 2,
+          "idAnswer": 5
+        },
+        {
+          "idQuestion": 3,
+          "idAnswer": 10
+        },
+        {
+          "idQuestion": 4,
+          "idAnswer": 14
+        },
+        {
+          "idQuestion": 5,
+          "idAnswer": 16
+        }
+      ],
+      "id": 2
+    },
+    {
+      "nameUser": "Dominic",
+      "result": [
+        {
+          "idQuestion": 1,
+          "idAnswer": 1
+        },
+        {
+          "idQuestion": 2,
+          "idAnswer": 5
+        },
+        {
+          "idQuestion": 3,
+          "idAnswer": 9
+        },
+        {
+          "idQuestion": 4,
+          "idAnswer": 12
+        },
+        {
+          "idQuestion": 5,
+          "idAnswer": 15
+        }
+      ],
+      "id": 3
+    },
+    {
+      "nameUser": "Test",
+      "result": [
+        {
+          "idQuestion": 1,
+          "idAnswer": 1
+        },
+        {
+          "idQuestion": 2,
+          "idAnswer": 8
+        },
+        {
+          "idQuestion": 3,
+          "idAnswer": 10
+        },
+        {
+          "idQuestion": 4,
+          "idAnswer": 14
+        },
+        {
+          "idQuestion": 5,
+          "idAnswer": 15
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
